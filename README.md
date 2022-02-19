@@ -1,5 +1,5 @@
 # niche-products
-A list of niche products websites, anything from small-batrch soap to custom furniture!
+A list of niche products websites, anything from small-batch soap to custom furniture!
 
 ## Hygiene Products
 - [Mighty White Soap Company](https://www.mightywhitesoapco.com/)
